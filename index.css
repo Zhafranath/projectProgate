@@ -1,0 +1,26 @@
+body{
+    margin: auto 0;
+    padding: 0;
+    text-align: center;  
+    background-color: #40739e;
+}
+h1{
+    color: #f5f6fa;
+    display: inline-block;
+    font-size: 32px;
+    max-width: fit-content;
+    border-bottom: 1px black solid;
+}
+.container{
+    width: 250px;
+    margin: auto;
+    height: 100px;
+}
+form{
+    margin-top: 10px;
+}
+select{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}

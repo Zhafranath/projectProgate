@@ -23,4 +23,8 @@ select{
     width: 200px;
     height: 30px;
     border-radius: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    color: #f5f6fa;
 }

@@ -2,10 +2,10 @@ body{
     margin: auto 0;
     padding: 0;
     text-align: center;  
-    background-color: #40739e;
+    background-image: url(./background.jpg);
 }
 h1{
-    color: #f5f6fa;
+    color: #2d3436;
     display: inline-block;
     font-size: 32px;
     max-width: fit-content;
@@ -26,5 +26,5 @@ select{
     margin-bottom: 10px;
 }
 h2{
-    color: #f5f6fa;
+    color: #2d3436;
 }
